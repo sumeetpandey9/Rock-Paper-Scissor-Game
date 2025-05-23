@@ -27,3 +27,18 @@ A classic **Rock Paper Scissors** game built using **HTML**, **CSS**, and **Java
 git clone https://github.com/sumeetpandey9/Rock-Paper-Scissor-Game.git
 cd rock-paper-scissors
 open index.html  # or double-click the file
+
+🧠 What I Learned
+DOM manipulation and event handling
+
+Using conditionals to handle logic
+
+Responsive design with media queries
+
+Building UI/UX through animations
+
+🙌 Contribute
+Found a bug or have an idea to improve the game? Feel free to fork and submit a PR!
+
+📬 Contact
+Connect with me on LinkedIn
