@@ -24,6 +24,6 @@ A classic **Rock Paper Scissors** game built using **HTML**, **CSS**, and **Java
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/sumeetpandey9/rock-paper-scissors.git
+git clone https://github.com/sumeetpandey9/Rock-Paper-Scissor-Game.git
 cd rock-paper-scissors
 open index.html  # or double-click the file
